@@ -1,0 +1,40 @@
+#copy {
+    background-color: #DDDDDD;
+    font-size: 20px;
+    text-align: center;
+}
+
+img
+{
+  width: 100%;
+  z-index: 0;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+.cap {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+h2 {
+    margin-left: 20px;
+    margin-right: 20px;   
+}
+
+body {
+    background-color: #e6eeff;
+}
